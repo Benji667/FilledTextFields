@@ -19,6 +19,7 @@
 		<Item Name="onMouseEnter Msg.lvclass" Type="LVClass" URL="../Filled Text Fields Actor Messages/onMouseEnter Msg/onMouseEnter Msg.lvclass"/>
 		<Item Name="onMouseLeave Msg.lvclass" Type="LVClass" URL="../Filled Text Fields Actor Messages/onMouseLeave Msg/onMouseLeave Msg.lvclass"/>
 		<Item Name="onValueChange Msg.lvclass" Type="LVClass" URL="../Filled Text Fields Actor Messages/onValueChange Msg/onValueChange Msg.lvclass"/>
+		<Item Name="updateHelperText Msg.lvclass" Type="LVClass" URL="../Filled Text Fields Actor Messages/updateHelperText Msg/updateHelperText Msg.lvclass"/>
 	</Item>
 	<Item Name="Data.lvclass" Type="LVClass" URL="../Data/Data.lvclass"/>
 	<Item Name="Filled Text Fields Actor.lvclass" Type="LVClass" URL="../Filled Text Fields Actor/Filled Text Fields Actor.lvclass"/>
