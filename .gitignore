@@ -1,6 +1,5 @@
-# Libraries
+# Packed libraries
 *.lvlibp
-*.llb
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -15,3 +14,19 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Build and Dependencies folders
+builds/
+lib/
+
+# Python files
+*.pyc
+pylintrc
+__pycache__/
+
+# Logs and DB
+*.log
+*.db
+
+# VS files
+.vscode/
