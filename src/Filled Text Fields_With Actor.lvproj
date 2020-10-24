@@ -13,6 +13,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Filled Text Fields Facade.ctl" Type="VI" URL="../Filled Text Fields Actor/Filled Text Fields Facade.ctl"/>
 		<Item Name="Filled Text Fields.lvlib" Type="Library" URL="../Filled Text Fields Actor/Filled Text Fields.lvlib"/>
 		<Item Name="Theme.lvlib" Type="Library" URL="../Theme/Theme.lvlib"/>
 		<Item Name="Tester 2.vi" Type="VI" URL="../Tester 2.vi"/>
@@ -32,7 +33,7 @@
 				<Item Name="UserTags.lvlib" Type="Library" URL="/&lt;vilib&gt;/UserTags/UserTags.lvlib"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/Dialog/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
