@@ -3,6 +3,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,9 +13,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Filled Text Fields Actor.lvlib" Type="Library" URL="../Filled Text Fields Actor/Filled Text Fields Actor.lvlib"/>
-		<Item Name="Tester.vi" Type="VI" URL="../Tester.vi"/>
+		<Item Name="Filled Text Fields.lvlib" Type="Library" URL="../Filled Text Fields Actor/Filled Text Fields.lvlib"/>
 		<Item Name="Theme.lvlib" Type="Library" URL="../Theme/Theme.lvlib"/>
+		<Item Name="Tester 2.vi" Type="VI" URL="../Tester 2.vi"/>
+		<Item Name="Tester.vi" Type="VI" URL="../Tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
