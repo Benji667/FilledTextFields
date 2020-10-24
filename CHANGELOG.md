@@ -4,9 +4,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 2020-23-10
+## [Unreleased] - 2020-24-10
 
 ### Added for new features.
+
+- Implement core functionnality
+- Add Wrapper class around the Actor for easiest use
+- Move Theme (Colors and Font) to an external LVLIB
+- Add Data class to bring abstraction
+
+### Known issues
+
+- Label disapears when clicking outside the container if string is not empty
 
 ### Changed for changes in existing functionality.
 
